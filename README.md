@@ -1,8 +1,9 @@
-# Python for Beginners Course
+# Image Processing in Python Course
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChasNelson1990/python-image-processing-in-python/master)
 
 This repository contains materials for a beginner’s python image processing course (delivery dates/information about self-taught options below).
+There is a slight emphasis on bioimage processing; however, those interested in general image processing should also find it useful.
 
 ## Aim
 
